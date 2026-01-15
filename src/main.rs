@@ -4,6 +4,8 @@
 use anyhow::Result;
 use clap::Parser;
 
+mod types;
+
 /// Resend CLI - Command-line interface for the Resend email platform
 #[derive(Parser)]
 #[command(name = "resend")]
