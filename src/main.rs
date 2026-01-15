@@ -4,6 +4,7 @@
 use anyhow::Result;
 use clap::Parser;
 
+mod config;
 mod types;
 
 /// Resend CLI - Command-line interface for the Resend email platform
