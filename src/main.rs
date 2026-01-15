@@ -6,6 +6,7 @@ use clap::Parser;
 
 mod client;
 mod config;
+mod formatters;
 mod types;
 
 /// Resend CLI - Command-line interface for the Resend email platform
