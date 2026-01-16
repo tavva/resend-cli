@@ -1,6 +1,6 @@
 # resend
 
-A command-line interface for the [Resend](https://resend.com) email platform. Send emails, manage domains, API keys, and templates directly from your terminal.
+A unofficial command-line interface for the [Resend](https://resend.com) email platform.
 
 ## Quick Start
 
