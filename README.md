@@ -1,4 +1,4 @@
-# resend
+# resend-cli
 
 A unofficial command-line interface for the [Resend](https://resend.com) email platform.
 
