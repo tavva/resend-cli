@@ -1,6 +1,8 @@
 # resend-cli
 
-A unofficial command-line interface for the [Resend](https://resend.com) email platform.
+> **Archived: use the official CLI instead.** Resend now ships an official CLI at [github.com/resend/resend-cli](https://github.com/resend/resend-cli) (`npm install -g resend-cli`). This Rust project is no longer maintained.
+
+An unofficial command-line interface for the [Resend](https://resend.com) email platform.
 
 ## Quick Start
 
